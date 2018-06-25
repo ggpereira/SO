@@ -7,6 +7,8 @@
 #include <stdbool.h>
 #include <math.h>
 
+//Author : Gabriel Gomes Pereira
+
 //Estados para o atendente
 #define RESTING  0
 #define ATTENDING  1
